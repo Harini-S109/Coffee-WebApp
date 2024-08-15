@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL:(https://harini-s109.github.io/Brew-Haven/)
+- Live Site URL:  (https://harini-s109.github.io/Coffee-WebApp/)
 
 ## My process
 
